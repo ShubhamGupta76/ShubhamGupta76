@@ -1,9 +1,3 @@
-<!-- Replace the Typing Animation -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Shubham+Kumar+Gupta;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;B.Tech+CSE+Graduate+(Result+Awaited);Open+to+Software+Development+Roles" alt="Typing SVG" />
-
----
-
 ## 🚀 About Me
 
 🎓 B.Tech Computer Science & Engineering Graduate (Result Awaited)
