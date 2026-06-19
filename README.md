@@ -1,3 +1,7 @@
+## 💬 Career Objective
+
+Aspiring Software Engineer with hands-on experience in Java, Spring Boot, React.js, and Full Stack Development. Passionate about building scalable applications, solving real-world problems, and learning modern software engineering practices. Seeking opportunities where I can contribute to impactful products, collaborate with talented teams, and continuously grow as a software developer while delivering meaningful value to the organization.
+
 ## 🚀 About Me
 
 🎓 B.Tech Computer Science & Engineering Graduate (Result Awaited)
@@ -54,12 +58,15 @@
 
 ## 📚 Current Focus
 
-* Building Job Portal SaaS Platform
-* Learning Microservices Architecture
-* Improving Data Structures & Algorithms
-* Exploring AWS Cloud Services
-* Preparing for Software Development Interviews
-* Contributing to Open Source Projects
+* 🚀 Building scalable Full Stack Applications using Spring Boot and React.js
+* 💼 Actively seeking Software Development Engineer (SDE), Java Developer, and Full Stack Developer opportunities
+* 🤝 Looking for opportunities where I can contribute, collaborate with experienced developers, and learn from real-world projects
+* 🌱 Continuously improving my knowledge of System Design, Microservices, and Cloud Technologies
+* 🧠 Strengthening Data Structures & Algorithms and Problem Solving skills
+* ☁️ Exploring AWS Cloud Services and Modern Backend Architectures
+* 🔧 Contributing to personal projects and open-source development
+* 📖 Committed to continuous learning and professional growth
+
 
 ---
 
